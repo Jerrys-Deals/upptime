@@ -1,8 +1,8 @@
 [
   {
     "name": "jerrysdeals.com",
-    "url": "https:/jerrysdeals.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://jerrysdeals.com/health",
+    "icon": "https://icons.duckduckgo.com/ip3/jerrysdeals.com.ico",
     "slug": "jerrysdeals-com",
     "status": "up",
     "uptime": "99.03%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.03%",
-    "time": 912,
-    "timeDay": 497,
-    "timeWeek": 4729,
-    "timeMonth": 2025,
-    "timeYear": 912,
+    "time": 909,
+    "timeDay": 429,
+    "timeWeek": 4332,
+    "timeMonth": 1985,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2024-05-31": 92,
       "2024-05-30": 32,
